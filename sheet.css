@@ -1,0 +1,104 @@
+*{
+    background-color: wheat;
+    font-family: fantasy;
+}
+nav a{
+    color: seagreen;
+    font-size: 28px;
+    font-weight: bold;
+    text-decoration: none;
+    padding: 20px;
+}
+
+nav{
+    margin-left: 50%;
+}
+
+nav a:hover{
+    color: rosybrown;
+    text-decoration: underline;
+}
+
+h2{
+    color: brown;
+    font-size: xx-large;
+    text-decoration: underline;
+    font-weight: 300;
+    margin-left: 7%;
+}
+
+#home img{
+    width: 207px;
+    height: 256px;
+    border: 4px red dashed;
+    border-radius: 28px;
+}
+
+#home{
+    text-align: center;
+}
+
+p{
+    display: inline-block;
+    margin-left: 9%;
+    width: 37%;
+    line-height: 46px;
+    text-align: justify;
+}
+
+table,th,td{
+    border: 1px solid darkorange;
+    border-collapse: collapse;
+}
+
+table{
+    width: 74%;
+    margin: auto;
+}
+
+th{
+    color: crimson;
+}
+
+td{
+   text-align: center;
+}
+
+form{
+    margin: auto;
+    width: 30%;
+}
+
+#con input{
+    margin-bottom: 13px;
+    margin-left: 50px;
+}
+
+form #mahmoud{
+    margin-left: 9px;
+}
+
+button{
+    color: blue;
+    width: 134px;
+    font-size: 26px;
+    margin-left: 100px;
+    background-color: chartreuse;
+    border: 15px red solid;
+    border-radius: 46px;
+}
+
+button:hover{
+    background-color: red;
+    border: 15px chartreuse solid;
+}
+
+label{
+    font-size: 27px;
+}
+
+footer{
+    text-align: center;
+    font-size: 30px;
+    padding: 40px;
+}
